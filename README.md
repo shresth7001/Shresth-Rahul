@@ -1,5 +1,5 @@
 <marquee><h1 align="center">Hi 👋, I'm Shresth Rahul</h1></marquee>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working at **Finastra Software Solutions,Bengaluru.**
 
